@@ -1,0 +1,31 @@
+
+body {
+}
+
+header {
+  padding: 20px;
+  margin-bottom: 20px;
+  color:black;
+  background: #ccc;
+}
+
+section {
+  float: left;
+  padding: 20px;
+  background-color: lightcoral;
+  margin-bottom: 40px;
+  color: white;
+
+
+nav {
+  padding: 20px;
+  margin-bottom: 20px;
+  color:black;
+  background: #ccc;
+}
+footer {
+    clear: both;
+    padding: 20px;
+    background-color: grey;
+  }
+  
