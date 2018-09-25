@@ -38,6 +38,7 @@ section {
   height: 295px;
   width: 590px;
   padding:1em;
+  margin-left: 10px;
   margin-right: 20px;
   margin-bottom: 20px;
   color: rgb(8, 8, 8);
@@ -50,7 +51,7 @@ aside {
   height: 295px;
   width: 395px;
   padding:1em;
-  margin-left: 20px;
+  margin-left: 10px;
   margin-bottom: 20px;
   color:#080808;
   background: #ebebeb;
